@@ -1,0 +1,13 @@
+body{
+    background-color:  #50C878;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.nav{
+    text-align: center;
+    text-decoration: none;
+    text-overflow: unset;
+    text-transform: capitalize;
+    text-wrap: nowrap;
+}
